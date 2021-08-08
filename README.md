@@ -5,7 +5,7 @@ Software part of a solution for creating a system within professional institutio
 
 The contents of this repsitory are as follows:
 1) Folder Source, this folder conatains the entire python code:  
-  i) Subfolder _pycache_ contains the cache data, to improve teh speed of the application.  
+  i) Subfolder _pycache_ contains the cache data, to improve the speed of the application.  
   ii) Subfolder cascades contains the cascade files for the facial recognizer.  
   iii) Subfolder gui_images contains the images used for the graphical user interface (GUI).  
   iv) Subfolders, qrcode, images, downloads and person contain 2 files namely, Delete_1 and Delete_2, these files need to removed before execution. These folders are used by the application for various tasks, see the documentation for more details.  
