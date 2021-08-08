@@ -12,5 +12,4 @@ The contents of this repsitory are as follows:
   v) File app.py contains the entire python program.  
   vi) File labels.pickle is used to label the categorized images.  
   vii) File trainner.yml contains the data required to ren the application.  
-2) Folder SQL contains the SQL code (needed to be run before the java program) of the application.  
-3) Folder Documents contains the working paper, logbook, EER diagram, flowchart diagram and a powerpoint presentation on the working of the application.  
+2) Folder Documents contains the working paper, logbook, EER diagram, flowchart diagram and a powerpoint presentation on the working of the application.  
